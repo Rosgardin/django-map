@@ -1,0 +1,7 @@
+django-crispy-forms
+crispy-bootstrap4
+folium
+yandex-geocoder
+osmnx
+networkx
+scikit-learn
