@@ -123,6 +123,9 @@ MAPS_API_KEY = os.environ.get('MAPS_API_KEY')
 if MAPS_API_KEY is None:
     MAPS_API_KEY = "624a7e2d-c90f-44fb-a02c-9ba1c12eacd5"
 
+SERVICE_API_KEY = os.environ.get('SERVICE_API_KEY')
+if SERVICE_API_KEY is None:
+    SERVICE_API_KEY = "5b3ce3597851110001cf6248864ee854e5ea415798d0299a9cd80648"
 
 
 # Static files (CSS, JavaScript, Images)

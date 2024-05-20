@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fb3611d-c848-4537-ac20-ed4643e11481" name="Changes" comment="" />
+    <list default="true" id="9fb3611d-c848-4537-ac20-ed4643e11481" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/django-map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front/ui.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/0cf7ee62e53ade2b54ad787601261d4e4a42d940.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1e8302c711d963fafb47314a43c4d2c020ed9a82.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/2a33894de7436b482c9a045fd7c35b5f41ea9043.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/32b11dd91252330db91c3fdcc420c3a658afd5b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/386f82065924a6d3e0368086197bf2285235cce6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/4325778c547f7720fe4d432cf5a60e418b5c5c74.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/58e7958a0632b645132e3515592fec5564e7bd2c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/5ae856bafb03d72afe9af5883141f8b69761746c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/7349468549071df90a774c567e2f01c5d119ed40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/84c687a275f77bf425eee8cd2e44bb26a299e9f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/9770938df48bafe843a98a321a1ad631f82eb068.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/c14848c73e6b460f4d572911542c9377a44c4fbc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/cb5288e104c828049ba8d67173ea52cda40a6ce0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/d7c7b57a70d25f397e56f4ac7e8a9d64b899f4a4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/ee97e0713349b8e1e34ebea96cf505520623db50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/ee9b0bb53111d02c27001f5dbae67957c7dce801.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mapproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,48 +46,72 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;brik13ET&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/brik13ET/django-map.git&quot;,
+    &quot;accountId&quot;: &quot;5b74209f-3b8e-4c5d-b30d-29665524952a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2gVWWZCDL1olS3qsRS061lm716l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Django Server.Django-Map-Locator-master.executor": "Run",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "django.template.preview.state": "SHOW_EDITOR",
-    "last_opened_file_path": "D:/Git/python/Django-Map-Locator-master/static",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "ts.external.directory.path": "D:\\PyCharm 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Django Server.Django-Map-Locator-master.executor&quot;: &quot;Run&quot;,
+    &quot;Django Server.django-map.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Git/python/django-map&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\PyCharm 2024.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Git\python\Django-Map-Locator-master\static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Git\python\django-map\static" />
+      <recent name="C:\Git\python\django-map\front" />
       <recent name="D:\Git\python\Django-Map-Locator-master\static" />
       <recent name="D:\Git\python\Django-Map-Locator-master\front_src" />
       <recent name="D:\Git\python\Django-Map-Locator-master\templates" />
-      <recent name="D:\Git\python\Django-Map-Locator-master" />
-      <recent name="D:\Git\python\Django-Map-Locator-master\mapproject" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Django Server.django-map">
     <configuration name="Django-Map-Locator-master" type="Python.DjangoServer" factoryName="Django server">
       <module name="Django-Map-Locator-master" />
       <option name="ENV_FILES" value="" />
@@ -69,8 +122,32 @@
         <env name="DJANGO_SETTINGS_MODULE" value="mapproject.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Django-Map-Locator-master)" />
       <option name="WORKING_DIRECTORY" value="D:\Git\python\Django-Map-Locator-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django-map" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django-map" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mapproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -106,11 +183,22 @@
       <workItem from="1715788241412" duration="17018000" />
       <workItem from="1716060094929" duration="24116000" />
       <workItem from="1716136349936" duration="14921000" />
+      <workItem from="1716211903009" duration="74000" />
+      <workItem from="1716212071904" duration="1050000" />
+      <workItem from="1716213131675" duration="13838000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/front/ui.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
